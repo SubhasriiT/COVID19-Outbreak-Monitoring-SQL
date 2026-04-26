@@ -4,6 +4,14 @@
 > surveillance data to detect trends, classify risk levels, and identify 
 > high-risk regions across 187 countries.
 
+## 📸 Dashboard Preview
+
+### Page 1 — Global Overview
+![Page 1](Screenshots/page1_dashboard.jpg)
+
+### Page 2 — Deep Dive Analysis
+![Page 2](Screenshots/page2_dashboard.jpg)
+
 
 ##  Project Overview
 
@@ -156,15 +164,6 @@ This logic powers both the **world map visual** and the
 -  District-level granularity for India-specific health surveillance
 -  Machine learning integration for predictive outbreak forecasting
 -  Integration with hospital capacity and healthcare resource data
-
-
-## 📸 Dashboard Preview
-
-### Page 1 — Global Overview
-![Page 1](Screenshots/page1_dashboard.jpg)
-
-### Page 2 — Deep Dive Analysis
-![Page 2](Screenshots/page2_dashboard.jpg)
 
 
 ##  Author
