@@ -1,3 +1,6 @@
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=country_wise_latest.csv
+Dataset Sources:
+1. WHO Global Daily Data:
+   https://data.who.int/dashboards/covid19/data
 
-https://data.who.int/dashboards/covid19/data
+2. Country Wise Latest (Kaggle):
+   https://www.kaggle.com/datasets/imdevskp/corona-virus-report
