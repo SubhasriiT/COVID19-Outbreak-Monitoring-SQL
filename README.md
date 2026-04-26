@@ -161,19 +161,21 @@ This logic powers both the **world map visual** and the
 ## 📸 Dashboard Preview
 
 ### Page 1 — Global Overview
-![Page 1](Screenshots/page1_dashboard.png)
+![Page 1](Screenshots/page1_dashboard.jpg)
 
 ### Page 2 — Deep Dive Analysis
-![Page 2](Screenshots/page2_dashboard.png)
+![Page 2](Screenshots/page2_dashboard.jpg)
 
 
-## 👤 Author
+##  Author
 
-**Your Name**
-- 🎓 [Your College Name]
-- 📧 your.email@gmail.com
-- 💼 [LinkedIn Profile](your-linkedin-url)
-- 🐙 [GitHub](your-github-url)
+**Name:** Subhasri
+
+**Email:** ktsubhasri2005@gmail.com
+
+**GitHub:** [SubhasriiT](https://github.com/SubhasriiT)
+
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/subhasri-t-007b58282/)
 
 
 ## 📜 License
